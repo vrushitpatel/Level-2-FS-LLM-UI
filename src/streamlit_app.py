@@ -3,7 +3,7 @@ import requests
 
 st.title("Customer Relationship Management System")
 
-BASE_URL = "https://vrush1t-level-2-fs-llm.hf.space"  # Matches localhost Port or Hugging Face Embedded  Direct URL
+BASE_URL = "https://vrush1t-level-2-fs-llm-api.hf.space"  # Matches localhost Port or Hugging Face Embedded  Direct URL
 
 def get_customers():
     try:
