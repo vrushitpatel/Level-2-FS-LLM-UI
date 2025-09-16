@@ -1,14 +1,14 @@
 ---
-title: Streamlit Template Space
+title: Level 2 FS LLM UI
 emoji: 🚀
 colorFrom: red
 colorTo: red
 sdk: docker
 app_port: 8501
 tags:
-  - streamlit
+- streamlit
 pinned: false
-short_description: Streamlit template space
+short_description: 'Enrollment AI: Level 2 Full Stack LLM Week 2 UI'
 ---
 
 # Welcome to Streamlit!
