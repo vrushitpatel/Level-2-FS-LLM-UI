@@ -5,7 +5,7 @@ from datetime import datetime
 from enum import Enum
 
 # API base URL
-BASE_URL = "http://localhost:8000"
+BASE_URL = "https://vrush1t-level-2-fs-llm-api.hf.space"
 
 # Define enums to match main.py
 class Status(str, Enum):
